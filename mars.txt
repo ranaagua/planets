@@ -1,1 +1,3 @@
-Mars is the fourth planet from the sun planet.  Mars is red. 
+Mars is the fourth planet from the sun planet.  Mars is red.
+
+There is some water on Mars. 
